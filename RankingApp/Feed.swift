@@ -1,10 +1,3 @@
-//
-//  Feed.swift
-//  RankingApp
-//
-//  Created by Teacher on 2016/06/18.
-//  Copyright © 2016年 AKYLab. All rights reserved.
-//
 
 import Foundation
 import Alamofire
